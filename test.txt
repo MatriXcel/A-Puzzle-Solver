@@ -1,0 +1,27 @@
+
+manhattan: 6
+
+going left 6
+going right 9
+going down 6
+
+5 6 0 7
+8 9 10 11
+2 3 4  1
+
+manhattan: 5
+5 0 6 7
+8 9 10 11
+2 3 4  1
+
+manhattan: 4
+
+5 9 6 7 
+8 0 10 11
+2 3 4  1
+
+
+
+5 9 6 7
+8 3 0 11
+2 4 10 1
